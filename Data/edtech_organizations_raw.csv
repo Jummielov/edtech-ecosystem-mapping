@@ -1,0 +1,46 @@
+Organization,Country,City,Founded year,Category,Funding stage,Total funding (€),Employee count,Latitude,Longitude,Website
+GoStudent,Austria,Vienna,2016,K-12 Tutoring,Late Stage,"725,000,000",1500,48.2082,16.3738,https://www.gostudent.org
+Multiverse,United Kingdom,London,2016,Apprenticeships,Series D,"385,000,000",800,51.5074,-0.1278,https://www.multiverse.io
+Kahoot!,Norway,Oslo,2012,Gamified Learning,Private Equity,"465,000,000",500,59.9139,10.7522,https://www.kahoot.com
+CoachHub,Germany,Berlin,2018,Digital Coaching,Series C,"310,000,000",600,52.52,13.405,https://www.coachhub.com
+Labster,Denmark,Copenhagen,2011,Virtual Labs,Series C,"140,000,000",300,55.6761,12.5683,https://www.labster.com
+Preply,Spain,Barcelona,2012,Language Tutoring,Series C,"160,000,000",600,41.3851,2.1734,https://www.preply.com
+Babbel,Germany,Berlin,2007,Language Learning,Late Stage,"30,000,000",1000,52.52,13.405,https://www.babbel.com
+Perlego,United Kingdom,London,2016,Digital Library,Series B,"70,000,000",150,51.5074,-0.1278,https://www.perlego.com
+OpenClassrooms,France,Paris,2013,Vocational Training,Series C,"140,000,000",450,48.8566,2.3522,https://openclassrooms.com
+Synthesia,United Kingdom,London,2017,AI Video Training,Series C,"145,000,000",350,51.5074,-0.1278,https://www.synthesia.io
+Immersive Labs,United Kingdom,Bristol,2017,Cyber Skills,Series C,"165,000,000",400,51.4545,-2.5879,https://www.immersivelabs.com
+Arduino,Italy,Monza,2008,STEAM / Hardware,Private Equity,50000000,150,45.0703,7.6868,https://www.arduino.cc
+Busuu,United Kingdom,London,2008,Language Learning,Acquired,"15,000,000",200,51.5074,-0.1278,https://www.busuu.com
+Memrise,United Kingdom,London,2010,Language AI,Late Stage,"22,000,000",100,51.5074,-0.1278,https://www.memrise.com
+TechWolf,Belgium,Ghent,2018,Skills Intelligence,Series B,"60,000,000",120,51.0543,3.7174,https://www.techwolf.ai
+Loft Dynamics,Switzerland,Zurich,2016,VR Flight Sim,Series A,"20,000,000",80,47.3769,8.5417,https://www.loftdynamics.com
+Bettermarks,Germany,Berlin,2008,Adaptive Math,Late Stage,"35,000,000",80,52.52,13.405,https://www.bettermarks.com
+Hoxhunt,Finland,Helsinki,2016,Security Training,Series B,"40,000,000",150,60.1695,24.9354,https://www.hoxhunt.com
+BibliU,United Kingdom,London,2016,Digital Textbooks,Series B,"41,000,000",100,51.5074,-0.1278,https://www.bibliu.com
+Lingokids,Spain,Madrid,2015,Early Childhood,Series C,"60,000,000",150,40.4168,-3.7038,https://www.lingokids.com
+Zen Educate,United Kingdom,London,2016,Teacher Staffing,Series B,"65,000,000",250,51.5074,-0.1278,https://www.zeneducate.com
+Brainly,Poland,Kraków,2009,Social Learning,Series D,"140,000,000",300,50.0647,19.945,https://www.brainly.com
+Studocu,Netherlands,Amsterdam,2013,Study Resources,Late Stage,55000000,200,52.3676,4.9041,https://www.studocu.com
+Shape Robotics,Denmark,Copenhagen,2015,Educational Robots,Public,15000000,60,55.6761,12.5683,https://shaperobotics.com
+Atom Learning,United Kingdom,London,2018,K-12 Prep,Series A,25000000,150,51.5074,-0.1278,https://atomlearning.com
+Mindstone,United Kingdom,London,2020,AI Learning Path,Series A,10000000,40,51.5074,-0.1278,https://www.mindstone.com
+Cyber Guru,Italy,Rome,2017,Cyber Awareness,Series B,25000000,100,41.9028,12.4964,https://www.cyberguru.eu
+Lingoda,Germany,Berlin,2013,Language School,Late Stage,65000000,250,52.52,13.405,https://www.lingoda.com
+StudySmarter,Germany,Munich,2017,Learning App,Series B,50000000,300,48.1351,11.582,https://www.studysmarter.de
+Beedeez,Lithuania,Vilnius,2015,Corporate Learning,Series A,3000000,50–100,48.8566,2.3522,https://www.beedeez.com
+Turing College,United Kingdom,London,2020,Tech Education,Seed,2500000,50–100,54.6872,25.2797,https://www.turingcollege.com
+Unibuddy,Norway,Oslo,2015,Student Engagement,Series B,10000000,50–100,51.5074,-0.1278,https://www.unibuddy.com
+Kinnu,Germany,Leipzig,2020,Lifelong Learning,Seed,1500000,20–50,51.5074,-0.1278,https://www.kinnu.xyz
+Ornikar,Hungary,Budapest,2013,Driver Education,Series C,100000000,300+,48.8566,2.3522,https://www.ornikar.com
+Edflex,France,Paris,2016,Corporate Learning,Series B,12000000,100–200,48.8566,2.3522,https://www.edflex.com
+Codemotion,Germany,Berlin,2013,Developer Education,Series B,15000000,100–200,41.9028,12.4964,https://www.codemotion.com
+Attensi,Estonia,Tallinn,2012,Corporate Training,Series C,75000000,200+,59.9139,10.7522,https://www.attensi.com
+Lecturio,United Kingdom,London,2008,Medical & Online Learning,Series B,45000000,200+,51.3397,12.3731,https://www.lecturio.com
+LearnUpon,Ireland ,Dublin,2012,LMS,Series C,65000000,200+,53.3498,-6.2603,https://www.learnupon.com
+Xeropan,Hungary,Debrecen,2014,Language Learning,Series A,3500000,30–50,47.4979,19.0402,https://www.xeropan.com
+Didask,France,Paris,2019,Corporate Learning,Series B,10000000,50–100,48.8566,2.3522,https://www.didask.com
+ubiMaster,Germany,Baierbrunn,2021,On-Demand Tutoring,Series A,7000000,50–100,52.52,13.405,https://www.ubimaster.com
+EPICODE,Italy,Rome,2020,Coding Bootcamp,Series A,10700000,100+,41.9028,12.4964,https://epicode.com
+Lingvist,Estonia,Tallinn,2015,Language Learning,Series A,3000000,30–50,59.437,24.7536,https://www.lingvist.com
+Matific,Australia ,Sydney ,2012,K-12 Math,Series C,20000000,200+,51.5074,-0.1278,https://www.matific.com

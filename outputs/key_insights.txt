@@ -1,0 +1,23 @@
+EDTECH ECOSYSTEM ANALYSIS - KEY INSIGHTS
+============================================================
+Generated: 2026-01-02 16:09:20
+Data source: data/edtech_organizations_clean.csv
+Organizations analyzed: 45
+============================================================
+
+1. Geographic concentration: United Kingdom leads with 26.7% of organizations
+2. Funding leader: United Kingdom with €202,500,000 total funding
+3. Most common category: Language Learning with 4 organizations
+4. Best funded category: Driver Education with €100,000,000
+5. Maturity level: 26.7% of companies are in Series B
+6. Total ecosystem funding: €993,200,000
+7. Regional hub: Northern Europe has 20 organizations
+8. Market Size: The European EdTech ecosystem tracked includes 45 organizations across 18 countries, with €993,200,000 in total funding and 12,630 employees.
+9. Geographic Concentration: Top 3 countries (United Kingdom, Germany, Italy) represent 51.1% of all organizations, indicating significant geographic concentration.
+10. Category Leadership: Language Learning is the most represented category with 4 organizations, showing strong market demand in this sector.
+11. Market Maturity: 71.1% of organizations have reached Series B or beyond, indicating a maturing ecosystem with proven business models.
+12. Funding Patterns: Average funding per organization is €22,071,111, while median is €15,000,000, showing significant variance in funding amounts.
+13. Ecosystem Age: The average company age is 11.5 years, suggesting a relatively young but growing ecosystem.
+
+============================================================
+END OF REPORT

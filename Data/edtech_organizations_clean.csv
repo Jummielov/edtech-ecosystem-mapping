@@ -1,0 +1,46 @@
+Organization,Country,City,Founded year,Category,Funding stage,Total funding (€),Employee count,Latitude,Longitude,Website,Company_Age,Funding_Category,Region
+GoStudent,Austria,Vienna,2016,K-12 Tutoring,Late Stage,15000000.0,1500.0,48.2082,16.3738,https://www.gostudent.org,10,€10M - €50M,Western Europe
+Multiverse,United Kingdom,London,2016,Apprenticeships,Series D,15000000.0,800.0,51.5074,-0.1278,https://www.multiverse.io,10,€10M - €50M,Northern Europe
+Kahoot!,Norway,Oslo,2012,Gamified Learning,Private Equity,15000000.0,500.0,59.9139,10.7522,https://www.kahoot.com,14,€10M - €50M,Northern Europe
+CoachHub,Germany,Berlin,2018,Digital Coaching,Series C,15000000.0,600.0,52.52,13.405,https://www.coachhub.com,8,€10M - €50M,Western Europe
+Labster,Denmark,Copenhagen,2011,Virtual Labs,Series C,15000000.0,300.0,55.6761,12.5683,https://www.labster.com,15,€10M - €50M,Northern Europe
+Preply,Spain,Barcelona,2012,Language Tutoring,Series C,15000000.0,600.0,41.3851,2.1734,https://www.preply.com,14,€10M - €50M,Southern Europe
+Babbel,Germany,Berlin,2007,Language Learning,Late Stage,15000000.0,1000.0,52.52,13.405,https://www.babbel.com,19,€10M - €50M,Western Europe
+Perlego,United Kingdom,London,2016,Digital Library,Series B,15000000.0,150.0,51.5074,-0.1278,https://www.perlego.com,10,€10M - €50M,Northern Europe
+OpenClassrooms,France,Paris,2013,Vocational Training,Series C,15000000.0,450.0,48.8566,2.3522,https://openclassrooms.com,13,€10M - €50M,Western Europe
+Synthesia,United Kingdom,London,2017,AI Video Training,Series C,15000000.0,350.0,51.5074,-0.1278,https://www.synthesia.io,9,€10M - €50M,Northern Europe
+Immersive Labs,United Kingdom,Bristol,2017,Cyber Skills,Series C,15000000.0,400.0,51.4545,-2.5879,https://www.immersivelabs.com,9,€10M - €50M,Northern Europe
+Arduino,Italy,Monza,2008,STEAM / Hardware,Private Equity,50000000.0,150.0,45.0703,7.6868,https://www.arduino.cc,18,Over €50M,Southern Europe
+Busuu,United Kingdom,London,2008,Language Learning,Acquired,15000000.0,200.0,51.5074,-0.1278,https://www.busuu.com,18,€10M - €50M,Northern Europe
+Memrise,United Kingdom,London,2010,Language AI,Late Stage,15000000.0,100.0,51.5074,-0.1278,https://www.memrise.com,16,€10M - €50M,Northern Europe
+TechWolf,Belgium,Ghent,2018,Skills Intelligence,Series B,15000000.0,120.0,51.0543,3.7174,https://www.techwolf.ai,8,€10M - €50M,Western Europe
+Loft Dynamics,Switzerland,Zurich,2016,VR Flight Sim,Series A,15000000.0,80.0,47.3769,8.5417,https://www.loftdynamics.com,10,€10M - €50M,Western Europe
+Bettermarks,Germany,Berlin,2008,Adaptive Math,Late Stage,15000000.0,80.0,52.52,13.405,https://www.bettermarks.com,18,€10M - €50M,Western Europe
+Hoxhunt,Finland,Helsinki,2016,Security Training,Series B,15000000.0,150.0,60.1695,24.9354,https://www.hoxhunt.com,10,€10M - €50M,Northern Europe
+BibliU,United Kingdom,London,2016,Digital Textbooks,Series B,15000000.0,100.0,51.5074,-0.1278,https://www.bibliu.com,10,€10M - €50M,Northern Europe
+Lingokids,Spain,Madrid,2015,Early Childhood,Series C,15000000.0,150.0,40.4168,-3.7038,https://www.lingokids.com,11,€10M - €50M,Southern Europe
+Zen Educate,United Kingdom,London,2016,Teacher Staffing,Series B,15000000.0,250.0,51.5074,-0.1278,https://www.zeneducate.com,10,€10M - €50M,Northern Europe
+Brainly,Poland,Kraków,2009,Social Learning,Series D,15000000.0,300.0,50.0647,19.945,https://www.brainly.com,17,€10M - €50M,Eastern Europe
+Studocu,Netherlands,Amsterdam,2013,Study Resources,Late Stage,55000000.0,200.0,52.3676,4.9041,https://www.studocu.com,13,Over €50M,Western Europe
+Shape Robotics,Denmark,Copenhagen,2015,Educational Robots,Public,15000000.0,60.0,55.6761,12.5683,https://shaperobotics.com,11,€10M - €50M,Northern Europe
+Atom Learning,United Kingdom,London,2018,K-12 Prep,Series A,25000000.0,150.0,51.5074,-0.1278,https://atomlearning.com,8,€10M - €50M,Northern Europe
+Mindstone,United Kingdom,London,2020,AI Learning Path,Series A,10000000.0,40.0,51.5074,-0.1278,https://www.mindstone.com,6,€10M - €50M,Northern Europe
+Cyber Guru,Italy,Rome,2017,Cyber Awareness,Series B,25000000.0,100.0,41.9028,12.4964,https://www.cyberguru.eu,9,€10M - €50M,Southern Europe
+Lingoda,Germany,Berlin,2013,Language School,Late Stage,65000000.0,250.0,52.52,13.405,https://www.lingoda.com,13,Over €50M,Western Europe
+StudySmarter,Germany,Munich,2017,Learning App,Series B,50000000.0,300.0,48.1351,11.582,https://www.studysmarter.de,9,Over €50M,Western Europe
+Beedeez,Lithuania,Vilnius,2015,Corporate Learning,Series A,3000000.0,200.0,48.8566,2.3522,https://www.beedeez.com,11,€1M - €5M,Northern Europe
+Turing College,United Kingdom,London,2020,Tech Education,Seed,2500000.0,200.0,54.6872,25.2797,https://www.turingcollege.com,6,€1M - €5M,Northern Europe
+Unibuddy,Norway,Oslo,2015,Student Engagement,Series B,10000000.0,200.0,51.5074,-0.1278,https://www.unibuddy.com,11,€10M - €50M,Northern Europe
+Kinnu,Germany,Leipzig,2020,Lifelong Learning,Seed,1500000.0,200.0,51.5074,-0.1278,https://www.kinnu.xyz,6,€1M - €5M,Western Europe
+Ornikar,Hungary,Budapest,2013,Driver Education,Series C,100000000.0,200.0,48.8566,2.3522,https://www.ornikar.com,13,Over €50M,Eastern Europe
+Edflex,France,Paris,2016,Corporate Learning,Series B,12000000.0,200.0,48.8566,2.3522,https://www.edflex.com,10,€10M - €50M,Western Europe
+Codemotion,Germany,Berlin,2013,Developer Education,Series B,15000000.0,200.0,41.9028,12.4964,https://www.codemotion.com,13,€10M - €50M,Western Europe
+Attensi,Estonia,Tallinn,2012,Corporate Training,Series C,75000000.0,200.0,59.9139,10.7522,https://www.attensi.com,14,Over €50M,Northern Europe
+Lecturio,United Kingdom,London,2008,Medical & Online Learning,Series B,45000000.0,200.0,51.3397,12.3731,https://www.lecturio.com,18,€10M - €50M,Northern Europe
+LearnUpon,Ireland ,Dublin,2012,LMS,Series C,65000000.0,200.0,53.3498,-6.2603,https://www.learnupon.com,14,Over €50M,Other
+Xeropan,Hungary,Debrecen,2014,Language Learning,Series A,3500000.0,200.0,47.4979,19.0402,https://www.xeropan.com,12,€1M - €5M,Eastern Europe
+Didask,France,Paris,2019,Corporate Learning,Series B,10000000.0,200.0,48.8566,2.3522,https://www.didask.com,7,€10M - €50M,Western Europe
+ubiMaster,Germany,Baierbrunn,2021,On-Demand Tutoring,Series A,7000000.0,200.0,52.52,13.405,https://www.ubimaster.com,5,€5M - €10M,Western Europe
+EPICODE,Italy,Rome,2020,Coding Bootcamp,Series A,10700000.0,200.0,41.9028,12.4964,https://epicode.com,6,€10M - €50M,Southern Europe
+Lingvist,Estonia,Tallinn,2015,Language Learning,Series A,3000000.0,200.0,59.437,24.7536,https://www.lingvist.com,11,€1M - €5M,Northern Europe
+Matific,Australia ,Sydney ,2012,K-12 Math,Series C,20000000.0,200.0,51.5074,-0.1278,https://www.matific.com,14,€10M - €50M,Other
