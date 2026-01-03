@@ -238,3 +238,19 @@ This project is open source and available under the MIT License.
 **Built as part of a 7-day data analysis portfolio sprint**
 
 *Last updated: January 2, 2025*
+
+# European EdTech Ecosystem Mapping
+
+> Interactive data analysis and visualization of the European EdTech landscape
+
+🌐 **[View Live Project](https://jummielov.github.io/edtech-ecosystem-mapping/)** | 📂 **[View Code](https://github.com/Jummielov/edtech-ecosystem-mapping)**
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
+...
+## 📊 Sample Visualizations
+
+### Interactive Map
+![Geographic Distribution](screenshots/map_view.png)
+
+### Dashboard
+![Dashboard View](screenshots/dashboard.png)
