@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>European EdTech Ecosystem | Data Analysis Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            padding: 60px 0;
+        }
+        
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.3em;
+            opacity: 0.9;
+        }
+        
+        .main-content {
+            background: white;
+            border-radius: 20px;
+            padding: 50px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            margin-top: 40px;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 30px;
+            margin: 40px 0;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            text-align: center;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .stat-label {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .visualizations {
+            margin: 50px 0;
+        }
+        
+        .viz-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-top: 30px;
+        }
+        
+        .viz-card {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 2px solid #e0e0e0;
+        }
+        
+        .viz-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .viz-card h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .viz-card p {
+            color: #666;
+            margin-bottom: 20px;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 12px 30px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .section {
+            margin: 50px 0;
+        }
+        
+        h2 {
+            color: #667eea;
+            font-size: 2em;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .insights-list {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin: 20px 0;
+        }
+        
+        .insights-list li {
+            margin: 15px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+        
+        .insights-list li:before {
+            content: "📊";
+            position: absolute;
+            left: 0;
+        }
+        
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .tech-badge {
+            background: #667eea;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+        
+        footer {
+            text-align: center;
+            color: white;
+            padding: 40px 0;
+            margin-top: 50px;
+        }
+        
+        .github-link {
+            display: inline-block;
+            margin: 20px 10px;
+            padding: 15px 30px;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+        
+        .github-link:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎓 European EdTech Ecosystem</h1>
+            <p class="subtitle">Interactive Data Analysis & Visualization</p>
+            <p class="subtitle">45 Organizations | 18 Countries | Data-Driven Insights</p>
+        </header>
+        
+        <div class="main-content">
+            <section class="section">
+                <h2>📊 Project Overview</h2>
+                <p>A comprehensive analysis of the European EdTech landscape, mapping organizations, funding patterns, and category trends across Europe. Built with Python, Pandas, and Plotly to demonstrate data analysis and visualization skills.</p>
+            </section>
+            
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number">45</div>
+                    <div class="stat-label">Organizations</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">18</div>
+                    <div class="stat-label">Countries</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">40+</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">9</div>
+                    <div class="stat-label">Funding Stages</div>
+                </div>
+            </div>
+            
+            <section class="visualizations">
+                <h2>🎨 Interactive Visualizations</h2>
+                <div class="viz-grid">
+                    <div class="viz-card">
+                        <h3>📍 Geographic Map</h3>
+                        <p>Interactive map showing EdTech organizations across Europe with funding stage visualization</p>
+                        <a href="outputs/map_visualization.html" class="btn">View Map</a>
+                    </div>
+                    
+                    <div class="viz-card">
+                        <h3>💰 Funding Analysis</h3>
+                        <p>Bar chart analyzing total funding by country and stage distribution</p>
+                        <a href="outputs/funding_chart.html" class="btn">View Chart</a>
+                    </div>
+                    
+                    <div class="viz-card">
+                        <h3>📚 Category Distribution</h3>
+                        <p>Pie chart showing the breakdown of EdTech categories and market segments</p>
+                        <a href="outputs/category_chart.html" class="btn">View Chart</a>
+                    </div>
+                    
+                    <div class="viz-card">
+                        <h3>📊 Funding Stages</h3>
+                        <p>Analysis of organizations by funding stage from Seed to Public</p>
+                        <a href="outputs/funding_stage_chart.html" class="btn">View Chart</a>
+                    </div>
+                    
+                    <div class="viz-card">
+                        <h3>🎛️ Dashboard</h3>
+                        <p>Comprehensive dashboard combining all visualizations in one view</p>
+                        <a href="outputs/dashboard.html" class="btn">View Dashboard</a>
+                    </div>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>💡 Key Insights</h2>
+                <div class="insights-list">
+                    <ul>
+                        <li><strong>Geographic Concentration:</strong> Top 3 countries represent 60%+ of all organizations</li>
+                        <li><strong>Market Maturity:</strong> 50%+ of companies have reached Series B or beyond</li>
+                        <li><strong>Category Leadership:</strong> Language Learning and Corporate Training dominate</li>
+                        <li><strong>Regional Hubs:</strong> UK, Germany, and France lead in total organizations</li>
+                        <li><strong>Funding Distribution:</strong> Significant variance between early and late-stage companies</li>
+                        <li><strong>Ecosystem Development:</strong> Analysis shows a maturing but dynamic ecosystem</li>
+                    </ul>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>🛠️ Tech Stack</h2>
+                <div class="tech-stack">
+                    <span class="tech-badge">Python 3.11</span>
+                    <span class="tech-badge">Pandas</span>
+                    <span class="tech-badge">Plotly</span>
+                    <span class="tech-badge">NumPy</span>
+                    <span class="tech-badge">Git & GitHub</span>
+                    <span class="tech-badge">Data Analysis</span>
+                    <span class="tech-badge">Data Visualization</span>
+                    <span class="tech-badge">ETL Pipeline</span>
+                </div>
+            </section>
+            
+            <section class="section">
+                <h2>🎯 About This Project</h2>
+                <p>This project was built as part of a 7-day portfolio sprint to demonstrate data analysis skills for a Junior Data Analyst position at European EdTech Alliance. It showcases:</p>
+                <ul style="margin: 20px 0; padding-left: 40px;">
+                    <li>Data collection and cleaning (ETL pipeline)</li>
+                    <li>Statistical analysis and insight generation</li>
+                    <li>Interactive data visualization with Plotly</li>
+                    <li>Professional documentation and code quality</li>
+                    <li>Version control with Git and deployment to GitHub Pages</li>
+                </ul>
+            </section>
+        </div>
+        
+        <footer>
+            <a href="https://github.com/Jummielov/edtech-ecosystem-mapping" class="github-link" target="_blank">
+                📂 View Code on GitHub
+            </a>
+            <a href="https://github.com/Jummielov" class="github-link" target="_blank">
+                👤 View My Profile
+            </a>
+            <p style="margin-top: 30px; opacity: 0.8;">
+                Built by Jummie | January 2025
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
