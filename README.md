@@ -66,6 +66,38 @@ edtech-portfolio/
 ├── requirements.txt                       # Python dependencies
 └── README.md                              # This file
 ```
+## 📂 Project Structure
+```
+edtech-portfolio/
+├── data/
+│   ├── edtech_organizations_raw.csv      # Original dataset
+│   └── edtech_organizations_clean.csv    # Processed dataset
+├── project-1-mapping/
+│   ├── data_collector.py                 # ETL pipeline
+│   ├── data_analysis.py                  # Statistical analysis
+│   ├── visualizations.py                 # Interactive charts
+│   └── README.md                          # Project documentation
+├── project-2-automation/
+│   ├── automated_pipeline.py             # Automated data pipeline
+│   └── README.md                          # Automation documentation
+├── outputs/
+│   ├── map_visualization.html            # Geographic map
+│   ├── funding_chart.html                # Funding analysis
+│   ├── category_chart.html               # Category breakdown
+│   ├── funding_stage_chart.html          # Stage distribution
+│   ├── dashboard.html                    # All-in-one dashboard
+│   ├── data_summary.txt                  # Dataset statistics
+│   ├── key_insights.txt                  # Analysis findings
+│   └── automation_summary.txt            # Automation report
+├── logs/                                  # Pipeline execution logs
+├── documentation/
+│   ├── research_notes.md                 # EdTech research
+│   ├── project_plan.md                   # Project roadmap
+│   └── daily_log.md                      # Development log
+├── index.html                             # Portfolio landing page
+├── requirements.txt                       # Python dependencies
+└── README.md                              # This file
+```
 
 ## 🚀 Quick Start
 
@@ -131,6 +163,32 @@ Open any HTML file in the `outputs/` folder in your web browser:
 ![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview)
 
 *All key metrics in one view: geographic distribution, funding analysis, categories, and stages*
+
+## 🤖 Automation
+
+This project includes a production-ready automated pipeline that demonstrates automation skills:
+
+### Automated Data Pipeline
+
+**Run the complete analysis with a single command:**
+```bash
+python project-2-automation/automated_pipeline.py
+```
+
+**Results:**
+- ⚡ **Execution time:** 3.28 seconds
+- 💰 **Time saved:** 7.5 hours per run
+- 📊 **Efficiency gain:** 100%
+- 📝 **Full logging:** All steps tracked
+- ✅ **Error handling:** Production-ready
+
+**Business Impact:**
+- Runs complete pipeline in seconds instead of hours
+- Consistent, reproducible results
+- Frees analyst time for strategic work
+- Monthly time savings: 30+ hours (4 runs)
+
+[View Automation Documentation →](project-2-automation/README.md)
 
 ## 🔍 Dataset
 
@@ -254,3 +312,12 @@ This project is open source and available under the MIT License.
 
 ### Dashboard
 ![Dashboard View](screenshots/dashboard.png)
+
+## 📧 Contact
+
+**Jummie**
+- GitHub: [@Jummielov](https://github.com/Jummielov)
+- Email: adejumokeadewole@gmail.com
+- Live Project: [jummielov.github.io/edtech-ecosystem-mapping](https://jummielov.github.io/edtech-ecosystem-mapping)
+
+**Open to Junior Data Analyst opportunities in EdTech!**
