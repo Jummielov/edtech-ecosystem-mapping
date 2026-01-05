@@ -1,7 +1,7 @@
 EDTECH ECOSYSTEM DATA SUMMARY
 ============================================================
 
-Generated: 2026-01-04 11:44:44
+Generated: 2026-01-05 11:11:08
 
 Total Organizations: 45
 Countries: 18

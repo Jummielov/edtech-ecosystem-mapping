@@ -1,6 +1,6 @@
 EDTECH ECOSYSTEM ANALYSIS - KEY INSIGHTS
 ============================================================
-Generated: 2026-01-04 11:44:45
+Generated: 2026-01-05 11:11:08
 Data source: data/edtech_organizations_clean.csv
 Organizations analyzed: 45
 ============================================================
