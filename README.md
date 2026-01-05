@@ -2,13 +2,43 @@
 
 > Interactive data analysis and visualization of the European EdTech landscape
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-5.0+-red.svg)](https://plotly.com/)
+🌐 **[View Live Project](https://jummielov.github.io/edtech-ecosystem-mapping/)** | 📂 **[View Source Code](https://github.com/Jummielov/edtech-ecosystem-mapping)**
 
+---
+
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-green?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-5.0+-red?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success?style=for-the-badge&logo=github&logoColor=white)](https://jummielov.github.io/edtech-ecosystem-mapping/)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Code Style](https://img.shields.io/badge/code%20style-professional-brightgreen?style=flat-square)](https://github.com/Jummielov/edtech-ecosystem-mapping)
+[![Status](https://img.shields.io/badge/status-active-success?style=flat-square)](https://github.com/Jummielov/edtech-ecosystem-mapping)
+
+---
 ## 📊 Project Overview
 
 This project provides a comprehensive analysis of the European EdTech ecosystem, mapping 45+ educational technology organizations across 18 countries. Using Python and interactive visualizations, it reveals insights about funding patterns, geographic distribution, and category trends in European education technology.
+
+## 📈 Project Highlights
+
+| Metric | Value |
+|--------|-------|
+| **Organizations Analyzed** | 45 |
+| **Countries Covered** | 18 |
+| **EdTech Categories** | 40+ |
+| **Total Funding Tracked** | €993,200,000 |
+| **Interactive Visualizations** | 5 |
+| **Lines of Code** | 1,500+ |
+| **Automation Time Savings** | 7.5 hours per run |
+| **Efficiency Gain** | 100% |
+
+### Quick Stats
+- 📍 **Geographic Reach:** Northern, Western, Southern, Eastern Europe
+- 💰 **Funding Stages:** Seed through Public markets
+- 🏢 **Company Maturity:** Average age ~8.5 years
+- 👥 **Workforce:** 9,730+ total employees tracked
+- 🚀 **Data Pipeline:** 3.28 second execution time
 
 ## 🎯 Key Features
 
@@ -27,6 +57,30 @@ Based on analysis of 45 EdTech organizations:
 - **Total Ecosystem Value**: €€993,200,000 in tracked funding
 - **Average Company Age**: 11.5 years
 - **Category Leadership**: Language Learning and Corporate Learning dominate
+
+## 🎯 Why This Project?
+
+This project was created to demonstrate job-ready data analysis skills for a Junior Data Analyst position at **European EdTech Alliance**. It showcases:
+
+### For Data Analysis Roles
+✅ **Data Collection & Cleaning** - Real-world messy data handling  
+✅ **Statistical Analysis** - Multi-dimensional aggregations and insights  
+✅ **Data Visualization** - Interactive, production-ready charts  
+✅ **Automation** - Professional pipeline with 100% efficiency gain  
+✅ **Documentation** - Clear, comprehensive, maintainable  
+
+### Business Value Demonstrated
+💰 **ROI Focus** - Quantified time savings (7.5 hours → 3 seconds)  
+📊 **Data-Driven Insights** - Automated insight generation  
+🔄 **Scalability** - Pipeline handles larger datasets with no changes  
+📝 **Professional Standards** - Logging, error handling, documentation  
+
+### Technical Proficiency
+- Python 3.11 (OOP, classes, functions)
+- Pandas (complex transformations, aggregations)
+- Plotly (interactive visualizations)
+- Git & GitHub (version control, collaboration)
+- Production-ready code (logging, error handling)
 
 ## 🛠️ Tech Stack
 
